@@ -14,7 +14,7 @@
 
 RM = rm -f
 # Name and Org on Hub
-ORG?=linuxkit
+ORG?=ghcr.io/bdwyertech/linuxkit
 IMAGE?=kernel
 IMAGE_BUILDER=linuxkit/alpine:35b33c6b03c40e51046c3b053dd131a68a26c37a
 
